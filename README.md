@@ -8,4 +8,4 @@ monaco-editor官方仓库是[monaco-editor](https://github.com/microsoft/monaco-
 
 # 如何使用这个仓库?
 
-将代码克隆到本地，将仓库所有文件放到web服务器，然后运行web服务器就能访问了。
+将代码克隆到本地，将仓库内/dist文件夹下的所有文件放到web服务器，然后运行web服务器就能访问了。
