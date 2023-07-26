@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[8201],{8201:(r,L,e)=>{e.r(L),e.d(L,{default:()=>n});const n="CREATE TABLE shop (\r\n    article INT(4) UNSIGNED ZEROFILL DEFAULT '0000' NOT NULL,\r\n    dealer  CHAR(20)                 DEFAULT ''     NOT NULL,\r\n    price   DOUBLE(16,2)             DEFAULT '0.00' NOT NULL,\r\n    PRIMARY KEY(article, dealer));\r\nINSERT INTO shop VALUES\r\n    (1,'A',3.45),(1,'B',3.99),(2,'A',10.99),(3,'B',1.45),\r\n    (3,'C',1.69),(3,'D',1.25),(4,'D',19.95);"}}]);
+//# sourceMappingURL=8201.js.map

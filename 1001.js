@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[1001],{1001:(e,n,r)=>{r.r(n),r.d(n,{default:()=>i});const i='begin:\r\nTextWindow.Write("Enter a number: ")\r\nnum = TextWindow.ReadNumber()\r\nremainder = Math.Remainder(num, 2)\r\nIf (remainder = 0) Then\r\n TextWindow.WriteLine("The number is Even")\r\nElse\r\n TextWindow.WriteLine("The number is Odd")\r\nEndIf\r\nGoto begin'}}]);
+//# sourceMappingURL=1001.js.map

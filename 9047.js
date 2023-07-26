@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[9047],{9047:(n,r,t)=>{t.r(r),t.d(r,{default:()=>a});const a=".myGlyphMarginClass {\r\n\tbackground: red;\r\n}\r\n.myContentClass {\r\n\t/* Make sure to use transparent colors for the selection to work */\r\n\tbackground: rgba(173, 216, 230, 0.5);\r\n}\r\n"}}]);
+//# sourceMappingURL=9047.js.map

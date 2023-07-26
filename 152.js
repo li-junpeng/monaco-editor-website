@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[152],{152:(t,e,n)=>{n.r(e),n.d(e,{default:()=>o});const o='const value = /* set from `myEditor.getModel()`: */ `function hello() {\r\n\talert(\'Hello world!\');\r\n}`;\r\n\r\n// Hover on each property to see its docs!\r\nconst myEditor = monaco.editor.create(document.getElementById("container"), {\r\n\tvalue,\r\n\tlanguage: "javascript",\r\n\tautomaticLayout: true,\r\n});\r\n'}}]);
+//# sourceMappingURL=152.js.map

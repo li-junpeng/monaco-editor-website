@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[6953],{6953:(n,a,e)=>{e.r(a),e.d(a,{default:()=>r});const r='import banana\r\n\r\n\r\nclass Monkey:\r\n    # Bananas the monkey can eat.\r\n    capacity = 10\r\n    def eat(self, n):\r\n        """Make the monkey eat n bananas!"""\r\n        self.capacity -= n * banana.size\r\n\r\n    def feeding_frenzy(self):\r\n        self.eat(9.25)\r\n        return "Yum yum"\r\n'}}]);
+//# sourceMappingURL=6953.js.map

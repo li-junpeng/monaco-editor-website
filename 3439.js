@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[3439],{5932:(e,t,n)=>{n.r(t),n.d(t,{default:()=>l});const l='// The colorizeElement-function will read the data-lang-attribute\r\n// from the element to select the correct language mode. In this\r\n// sample it is text/css.\r\nmonaco.editor.colorizeElement(document.getElementById("code"), {});\r\n'}}]);
+//# sourceMappingURL=3439.js.map

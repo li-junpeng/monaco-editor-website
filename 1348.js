@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[1348],{1348:(e,n,E)=>{E.r(n),E.d(n,{default:()=>m});const m="BEGIN\r\n    SELECT * INTO STRICT myrec FROM emp WHERE empname = myname;\r\n    EXCEPTION\r\n        WHEN NO_DATA_FOUND THEN\r\n            RAISE EXCEPTION 'employee % not found', myname;\r\n        WHEN TOO_MANY_ROWS THEN\r\n            RAISE EXCEPTION 'employee % not unique', myname;\r\nEND;"}}]);
+//# sourceMappingURL=1348.js.map

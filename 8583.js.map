@@ -1,0 +1,1 @@
+{"version":3,"file":"8583.js","mappings":"8IAAA,6D","sources":["file:///C:\\0-E\\Code Store\\monaco-editor\\website\\src\\website\\data\\playground-samples\\creating-the-diffeditor\\inline-diff-example\\sample.html"],"sourcesContent":["export default \"<div id=\\\"container\\\" style=\\\"height: 100%\\\"></div>\\r\\n\";"],"names":[],"sourceRoot":""}

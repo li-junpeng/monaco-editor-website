@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[887],{887:(r,n,e)=>{e.r(n),e.d(n,{default:()=>a});const a="%TAG ! tag:clarkevans.com,2002:\r\n--- !shape\r\n  # Use the ! handle for presenting\r\n  # tag:clarkevans.com,2002:circle\r\n- !circle\r\n  center: &ORIGIN {x: 73, y: 129}\r\n  radius: 7\r\n- !line\r\n  start: *ORIGIN\r\n  finish: { x: 89, y: 102 }\r\n- !label\r\n  start: *ORIGIN\r\n  color: 0xFFEEBB\r\n  text: Pretty vector drawing.\r\n"}}]);
+//# sourceMappingURL=887.js.map

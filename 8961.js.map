@@ -1,0 +1,1 @@
+{"version":3,"file":"8961.js","mappings":"8IAAA,gI","sources":["file:///C:\\0-E\\Code Store\\monaco-editor\\website\\src\\website\\data\\home-samples\\sample.m3.txt"],"sourcesContent":["export default \" MODULE HelloWorld EXPORTS Main;\\r\\n FROM IO IMPORT Put;\\r\\n BEGIN\\r\\n   Put(\\\"Hello World\\\\n\\\")\\r\\n END HelloWorld.\\r\\n\";"],"names":[],"sourceRoot":""}
